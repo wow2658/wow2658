@@ -22,7 +22,6 @@
 + Google Play 인디 게임 페스티벌 2022 유저 심사위원단
 + 2023-04-24 ~ 2023-11-30 메타버스 아카데미 2기 XR(Unreal) 전공
 + 2023-10-16 ~ 2023-12-11 메타버스 펠로우십 Meta 과제
-+ 2024-02-15 ~
   
 # 🎖️ Awards 
 + 메타버스 아카데미 2기 수도권 XR(Unreal) 우수교육생
@@ -31,10 +30,15 @@
 
 # 🎮 Projects
 + 개인프로젝트
-  + Soulslike
+  + [Soulslike](https://github.com/wow2658/Soulslike_UE53)
   
 + 팀프로젝트
-  + IROAS
+  + [vr-sword&gun](https://github.com/wow2658/wow2658/wiki/05_%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(MA))
+  + [vr-gun&gun]()
+  + [vr-gun](https://github.com/wow2658/wow2658/wiki/04_4%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(MA))
+  + [multi-fps](https://github.com/wow2658/wow2658/wiki/03_3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(MA))
+  + [single-tps](https://github.com/wow2658/wow2658/wiki/02_2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(MA))
+  + [zombie-tps](https://github.com/wow2658/wow2658/wiki/01_1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(MA))
 
 # ✍️ Study (문제풀이, 구현위주)
 + 알고리즘
