@@ -1,24 +1,38 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/34699039/296319082-595c2b8a-465d-4419-95cc-3c10a7353408.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240112T175355Z&X-Amz-Expires=300&X-Amz-Signature=0cef848010ca4f440fcbb62c3bf48608eb3d779989c27308e886d5df19bf7542&X-Amz-SignedHeaders=host&actor_id=34699039&key_id=0&repo_id=250148814"/><img src="https://see.fontimg.com/api/renderfont4/e5ae/eyJyIjoiZnMiLCJoIjo4MiwidyI6MTAwMCwiZnMiOjgyLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QWx3YXlzIHJ1bm5pbmcsIGFsd2F5cyBzdHJpdmluZy4/aga-cordoba-v2-qrTb.png" width="600" height="55" alt="Arabic fonts">
+
+![fast_gottagofast](https://github.com/wow2658/wow2658/assets/34699039/1e4acdeb-4bdc-44a6-9ec4-aa831e9921eb)
+![80text_gottagofast](https://github.com/wow2658/wow2658/assets/34699039/dc3de57b-0332-4cc1-8151-f4723fc0673f)
+
+
+
 ***
+
 # 👋 Intro
-+ 인사말
-  
+안녕하세요. 제 GitHub를 방문해 주셔서 감사합니다. <br> <br> 아래의 포트폴리오를 통해 저의 개발 역량과 프로젝트들을 소개해 드리고 싶습니다. <br> <br>
+아직 끊임없이 배워나가야 할 부분이 많은 단계이지만, 흥미롭게 보실 수 있도록 성의를 다해 준비해 보았습니다. 
+
 # 🌱 Skills
 <img alt="UE5" src ="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=social&logo=unrealengine&logoColor=#0E1128"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=social&logo=cplusplus&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Visual Studio-00599C.svg?&style=social&logo=visualstudio&logoColor=#00599C"/> 
 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=social&logo=unity&logoColor=#0E1128"/> <img alt="C#" src ="https://img.shields.io/badge/C%23-512BD4.svg?&style=social&logo=csharp&logoColor=#0E1128"/> 
- <img src ="https://img.shields.io/badge/Photoshop-00599C.svg?&style=social&logo=adobephotoshop&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Afte Effects-00599C.svg?&style=social&logo=adobeaftereffects&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Aseprite-00599C.svg?&style=social&logo=aseprite&logoColor=#00599C"/>  <img src ="https://img.shields.io/badge/Blender-E87D0D.svg?&style=social&logo=blender&logoColor=#E87D0D"/> <img src ="https://img.shields.io/badge/Houdini-00599C.svg?&style=social&logo=Houdini&logoColor=#00599C"/> 
+ <img src ="https://img.shields.io/badge/Photoshop-00599C.svg?&style=social&logo=adobephotoshop&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/After Effects-00599C.svg?&style=social&logo=adobeaftereffects&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Aseprite-00599C.svg?&style=social&logo=aseprite&logoColor=#00599C"/>  <img src ="https://img.shields.io/badge/Blender-E87D0D.svg?&style=social&logo=blender&logoColor=#E87D0D"/> <img src ="https://img.shields.io/badge/Houdini-00599C.svg?&style=social&logo=Houdini&logoColor=#00599C"/> 
  
-<img src ="https://img.shields.io/badge/Obsidian-00599C.svg?&style=social&logo=obsidian&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Notion-00599C.svg?&style=social&logo=notion&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Github-00599C.svg?&style=social&logo=github&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Excel-00599C.svg?&style=social&logo=microsoftexcel&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Oculus-00599C.svg?&style=social&logo=oculus&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Steam-00599C.svg?&style=social&logo=steam&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Oculus-00599C.svg?&style=social&logo=oculus&logoColor=#00599C"/> 
+<img src ="https://img.shields.io/badge/Obsidian-00599C.svg?&style=social&logo=obsidian&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Notion-00599C.svg?&style=social&logo=notion&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Github-00599C.svg?&style=social&logo=github&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Excel-00599C.svg?&style=social&logo=microsoftexcel&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Steam-00599C.svg?&style=social&logo=steam&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Oculus-00599C.svg?&style=social&logo=oculus&logoColor=#00599C"/> 
 
 # 🎓 Certificated program
-+ 교육수료이력
++ 2023-04-24 ~ 2023-11-30 메타버스 아카데미 2기 XR(Unreal) 전공
++ 2023-10-16 ~ 2023-12-11 메타버스 펠로우십 Meta 과제
++ 2024-02-15 ~
   
 # 🎖️ Awards 
-+ 대회수상이력
++ 메타버스 아카데미 2기 수도권 XR(Unreal) 우수교육생
++ 메타버스 펠로우십 Meta 대표상 우수팀
 
 # 🎮 Projects
-+ 개인프로젝트, 팀프로젝트
++ 개인프로젝트
+  + Soulslike
+  
++ 팀프로젝트
+  + IROAS
 
 # ✍️ Study (문제풀이, 구현위주)
 + 알고리즘
@@ -30,7 +44,7 @@
 
 
 # 🤞 Outro
-+ 맺음말
+시간내어 살펴봐 주셔서 정말 감사합니다.  <br><br>  앞으로도 깊은 디테일과 창의성을 고민하면서 나아가겠습니다. <br><br> 혹시 궁금한 점이나 제안 사항이 있으실 경우 E-mail로 연락해 주시면 기쁜 마음으로 소통하겠습니다. <br><br> 훗날 더 다양한 사람들과 협업할 수 있는 기회가 주어졌으면 좋겠습니다.
 
 
 <!--
