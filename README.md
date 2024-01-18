@@ -19,12 +19,12 @@
 <img src ="https://img.shields.io/badge/Obsidian-00599C.svg?&style=social&logo=obsidian&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Notion-00599C.svg?&style=social&logo=notion&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Github-00599C.svg?&style=social&logo=github&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Excel-00599C.svg?&style=social&logo=microsoftexcel&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Steam-00599C.svg?&style=social&logo=steam&logoColor=#00599C"/> <img src ="https://img.shields.io/badge/Oculus-00599C.svg?&style=social&logo=oculus&logoColor=#00599C"/> 
 
 # 🎓 Certificated program
++ Google Play 인디 게임 페스티벌 2022 유저 심사위원단
 + 2023-04-24 ~ 2023-11-30 메타버스 아카데미 2기 XR(Unreal) 전공
 + 2023-10-16 ~ 2023-12-11 메타버스 펠로우십 Meta 과제
 + 2024-02-15 ~
   
 # 🎖️ Awards 
-+ Google Play 인디 게임 페스티벌 2022 유저 심사위원단
 + 메타버스 아카데미 2기 수도권 XR(Unreal) 우수교육생
 + 메타버스 아카데미 2기 최종 팀 프로젝트 우수상
 + 메타버스 펠로우십 Meta 대표상 우수팀
